@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\adapter\DispatchAdapter.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\controller\BallWorldController.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\ball\Ball.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\ball\IBallFac.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\BallWorldStore.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\cmd\IBallCmd.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\cmd\ICmdFac.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\CompositeStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\DrunkRotateStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\IStrategyFac.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\IUpdateStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\RotatingStopStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\RotationStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\StopStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\StraightStopStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\StraightStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\StrategyFac.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\TeleportStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\VerticalStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\ZigZagStopStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\model\strategy\ZigZagStrategy.java">
+</file>
+<file name="F:\FALL23\COMP504_OOPS\hw3-Swanand58\src\main\java\edu\rice\comp504\util\RandUtil.java">
+</file>
+</checkstyle>
